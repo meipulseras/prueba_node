@@ -1,13 +1,13 @@
 function titles(){
 
-    document.getElementById(1).title = "1. Pulseras para compartir.";
-    document.getElementById(2).title = "2. Amuleto protector.";
-    document.getElementById(3).title = "3. Pulseras para compartir.";
-    document.getElementById(4).title = "4. Pulsera macramé individual.";
-    document.getElementById(5).title = "5. Pulseras para compartir.";
-    document.getElementById(6).title = "6. Pulseras para compartir.";
-    document.getElementById(7).title = "7. Pulsera cuarzo rosa.";
-    document.getElementById(8).title = "8. Pulsera macramé ceramica.";
+    document.getElementById(1).title = "1. Pulseras para compartir 2.";
+    document.getElementById(2).title = "2. Pulseras BFF.";
+    document.getElementById(3).title = "3. Pulseras para compartir 1.";
+    document.getElementById(4).title = "4. Pulseras estrellas.";
+    document.getElementById(5).title = "5. Pulseras girasol.";
+    document.getElementById(6).title = "6. Pulsera macramé.";
+    document.getElementById(7).title = "7. Pulseras hilo rojo.";
+    document.getElementById(8).title = "8. Set pulseras.";
     // document.getElementById(9).title = "09. Pulseras macramé.";
     // document.getElementById(10).title = "10. Pulsera ágatas 3mm.";
     // document.getElementById(11).title = "11. Pulseras para compartir.";
