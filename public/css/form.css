@@ -51,10 +51,24 @@
     border: none;
 }
 
-.products,
-.checkboxes { width: 213.6px; height: auto; display: inline-block;}
+.fotosproductos { 
+  width: 100%; 
+  text-align: center; 
+}
 
-.fotosproductos { width: 100%; }
+.products { 
+  width: 213.6px; 
+  height: auto; 
+  display: inline-block; 
+  vertical-align: top; 
+  margin: 10px; 
+}
+
+.checkboxes { 
+  width: 100%; 
+  height: auto; 
+  display: block; 
+}
 
 .relleno {
     width: 100%;
