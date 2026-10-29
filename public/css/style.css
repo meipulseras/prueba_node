@@ -75,7 +75,7 @@ h4 {
     display: inline-block !important;
     white-space: nowrap !important;
     will-change: transform;
-    animation: marquee-izquierda 6s linear infinite !important;
+    animation: marquee-izquierda 12s linear infinite !important;
 }
 
 @keyframes marquee-izquierda {
