@@ -1,6 +1,6 @@
 body {
-    background-color: #ffffff !important; /* Fuerza el fondo blanco constante */
-    color: #303030 !important;
+    background-color: #ffffff
+    color: #303030
     margin: 0;
     padding: 0;
 }
@@ -61,9 +61,9 @@ h4 {
 }
 .top-bar {
     background-color: #e4437e;
-    color: #ffffff
+    color: #000000
     font-family: Quicksand, sans-serif;
-    font-size: 0.95rem;
+    font-size: 0.90rem;
     padding: 8px 0;
     overflow: hidden;
     white-space: nowrap;
