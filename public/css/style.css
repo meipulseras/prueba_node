@@ -59,6 +59,36 @@ h4 {
     grid-template-columns: auto auto auto auto;
     gap: 10px;
 }
+.top-bar {
+    background-color: #e4437e;
+    color: white;
+    font-family: Quicksand, sans-serif;
+    font-size: 0.85rem;
+    padding: 8px 0;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 100%;
+    position: relative;
+}
+
+.top-bar-track {
+    display: inline-block;
+    white-space: nowrap;
+    animation: marquee 22s linear infinite;
+}
+
+.top-bar-track span {
+    padding-right: 50px;
+}
+
+@keyframes marquee {
+    0% {
+        transform: translateX(0%);
+    }
+    100% {
+        transform: translateX(-50%);
+    }
+}
 
 .foto { width: 280px; height: 280px;}
 .grid-item { display: inline-block; text-align: center; width: 280px; height: 280px;}
