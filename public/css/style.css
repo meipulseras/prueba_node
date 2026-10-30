@@ -69,6 +69,7 @@ h4 {
     white-space: nowrap;
     width: 100%;
     position: relative;
+    eight: 38px;
 }
 
 .top-bar-track {
@@ -80,7 +81,7 @@ h4 {
 
 @keyframes marquee-izquierda {
     0% {
-        transform: translateX(100%);
+        transform: translateX(100vw);
     }
     100% {
         transform: translateX(-100%);
